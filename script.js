@@ -20,4 +20,4 @@ document.addEventListener('DOMContentLoaded', function() {
     // Change the text content of the <p> element after the table
     textAfterTable.textContent = 'Modified text after table';
   });
-  
+  // the end of script
